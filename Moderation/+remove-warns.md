@@ -15,7 +15,7 @@ user | The user to remove warnings from. | User | Yes
 ### Possibilities for [*amount*](https://github.com/xNickyDev/Ocavy/blob/main/Moderation/+remove-warns.md#arguments)
 - **`all`** - Removes all warnings
 
-- **`case number`** (e.g. 12, 251) - Removes one specified case/warning
+- **`case number`** (e.g. 12, 251) - Removes one specific case/warning
 
 ## Examples
 ![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/dUXaNTbvWU.jpg)
