@@ -10,9 +10,9 @@ Removes warnings from a user
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 user | The user to remove warnings from. | User | Yes
-<span style="color:pink">amount</span> | The amount of warnings to remove. | Enum/Number | Yes
+amount | The amount of warnings to remove. | Enum/Number | Yes
 
-### Possibilities for <span style="color:pink">*amount*</span>
+### Possibilities for [*amount*](https://github.com/xNickyDev/Ocavy/blob/main/Moderation/+remove-warns.md#arguments)
 - **`all`** - Removes all warnings
 
 - **`case number`** (e.g. 12, 251) - Removes one specified case/warning
