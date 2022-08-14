@@ -10,7 +10,7 @@ Removes warnings from a user
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 user | The user to remove warnings from. | User | Yes
-amount | The amount of warnings to remove. | Enum/Number | Yes
+[amount](https://github.com/xNickyDev/Ocavy/blob/main/Moderation/+remove-warns.md#possibilities-for-amount) | The amount of warnings to remove. | Enum/Number | Yes
 
 ### Possibilities for [*amount*](https://github.com/xNickyDev/Ocavy/blob/main/Moderation/+remove-warns.md#arguments)
 - **`all`** - Removes all warnings
