@@ -9,7 +9,7 @@ Ocavy Commands Help
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-command | Shows command information about the specified command. | Command | No
+command | Retrieves command information about the specified command. | Command | No
 
 ## Examples
 ![image](https://user-images.githubusercontent.com/111157596/184703339-8ceb6ae0-da08-4f76-9dd2-30a6205d4de1.jpg)
