@@ -10,9 +10,9 @@ Creates a new channel
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 name | The name of the channel. | String | Yes
-[type]() | The type of the channel. | Enum | No
+[type](https://github.com/xNickyDev/Ocavy/blob/main/Moderation/%2Bcreate-channel.md#possibilities-for-type) | The type of the channel. | Enum | No
 
-### Possibilities for [*type*]()
+### Possibilities for [*type*](https://github.com/xNickyDev/Ocavy/blob/main/Moderation/%2Bcreate-channel.md#arguments)
 - **`text`**
 - **`voice`**
 - **`category`**
