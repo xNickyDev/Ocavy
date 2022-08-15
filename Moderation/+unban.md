@@ -9,7 +9,7 @@ Unbans a user with optional reason
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-user | The user to unban. | User | Yes
+userID | The user to unban. | User | Yes
 reason | The reason for the unban if any. | String | No
 
 ## Examples
