@@ -9,7 +9,7 @@ Ocavy Commands Help
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-category | Retrieves help about the specified category. | Bot Category | No
+category | Retrieves commands help about the specified category. | Bot Category | No
 command | Retrieves command information about the specified command. | Bot Command | No
 
 ## Examples
