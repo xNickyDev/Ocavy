@@ -4,6 +4,7 @@
 ## August
 - Fixed some APIs wasn't working
 - Added `+command-info` (Aliases: `+help`, `+command`)
+- Added optional `command` argument to `+help`
 - Made it possible to receive **limited** emoji information by specifying just the ID at `+emoji-info`
 
 ## Changelog 08/01/2022
