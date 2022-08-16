@@ -3,6 +3,8 @@
 # 2022
 ## August
 - Fixed some APIs wasn't working
+- Added `+command-info` (Aliases: `+help`, `+command`)
+- Made it possible to receive **limited** emoji information by specifying just the ID at `+emoji-info`
 
 ## Changelog 08/01/2022
 - Added **Reactions** field to `+reaction-info`
