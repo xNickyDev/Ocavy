@@ -1,5 +1,5 @@
 # /channel-info
-Returns information of a channel
+Returns information about a channel
 
 ## Usage
 ```
