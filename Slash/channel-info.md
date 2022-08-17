@@ -3,7 +3,7 @@ Returns information about a channel
 
 ## Usage
 ```
-/channel-info [channel]
+/channel-info (channel)
 ```
 
 ## Arguments
