@@ -1,5 +1,5 @@
 # +cat
-Returns random cat pictures
+Returns a random cat picture
 
 ## Usage
 ```
