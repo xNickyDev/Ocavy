@@ -1,5 +1,5 @@
 # +car
-Returns random car pictures
+Returns a random car picture
 
 ## Usage
 ```
