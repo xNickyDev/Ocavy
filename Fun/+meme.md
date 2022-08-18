@@ -1,5 +1,5 @@
 # +meme
-Returns random memes
+Returns a random meme
 
 ## Usage
 ```
