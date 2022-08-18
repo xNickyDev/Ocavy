@@ -1,5 +1,5 @@
 # +joke
-Returns random jokes
+Returns a random joke
 
 ## Usage
 ```
