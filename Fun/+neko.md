@@ -1,5 +1,5 @@
 # +neko
-Returns random neko pictures
+Returns a random neko picture
 
 ## Usage
 ```
