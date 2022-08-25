@@ -7,6 +7,7 @@
 - Added optional `command` argument to `+help` and `/help`
 - Made it possible to receive **limited** emoji information by specifying just the ID at `+emoji-info`
 - Fixed that sometimes an error message pops up although the selected emoji is valid at `+emoji-info`
+- Added `+steal-emoji` (Alias: `+steal`)
 
 ## Changelog 08/01/2022
 - Added **Reactions** field to `+reaction-info`
