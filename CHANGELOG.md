@@ -8,6 +8,8 @@
 - Made it possible to receive **limited** emoji information by specifying just the ID at `+emoji-info`
 - Fixed that sometimes an error message pops up although the selected emoji is valid at `+emoji-info`
 - Added `+steal-emoji` (Alias: `+steal`)
+- Changed the default image size to **2048** at `+avatar`
+- Added buttons "Normal Avatar" and "Server Avatar" to `+avatar` (they only show up when the specified user has a server avatar)
 
 ## Changelog 08/01/2022
 - Added **Reactions** field to `+reaction-info`
