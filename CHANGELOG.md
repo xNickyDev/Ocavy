@@ -1,6 +1,11 @@
 # Changelog
 
 # 2022
+## September
+- Modified `+create-role`. You can now create roles way easier and with more options in 3 steps
+- Replaced the "Roles" argument with the new **Highest Role** argument at `+user-info`
+- Added **HypeSquad** argument to `+user-info`
+
 ## August
 - Fixed some APIs wasn't working
 - Added `+command-info` (Aliases: `+help`, `+command`)
