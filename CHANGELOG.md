@@ -5,6 +5,7 @@
 - Modified `+create-role`. You can now create roles way easier and with more options in 3 steps
 - Replaced the "Roles" argument with the new **Highest Role** argument at `+user-info`
 - Added **HypeSquad** argument to `+user-info`
+- Made it possible for `+invite-info` to receive guild invite data if the invite could not be detected and is from the current server
 
 ## August
 - Fixed some APIs wasn't working
