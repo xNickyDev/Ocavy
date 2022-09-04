@@ -7,6 +7,7 @@
 - Added **HypeSquad** argument to `+user-info`
 - Made it possible for `+invite-info` to receive guild invite data if the invite could not be detected and is from the current server
 - Added `+twitter`
+- Fixed & Reworked `+youtube`
 
 ## August
 - Fixed some APIs wasn't working
