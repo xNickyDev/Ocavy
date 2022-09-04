@@ -6,6 +6,7 @@
 - Replaced the "Roles" argument with the new **Highest Role** argument at `+user-info`
 - Added **HypeSquad** argument to `+user-info`
 - Made it possible for `+invite-info` to receive guild invite data if the invite could not be detected and is from the current server
+- Added `+twitter`
 
 ## August
 - Fixed some APIs wasn't working
