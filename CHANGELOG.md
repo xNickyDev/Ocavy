@@ -4,7 +4,7 @@
 ## September
 - Modified `+create-role`. You can now create roles way easier and with more options in 3 steps
 - Removed the "Roles" field at `+user-info` & instead added new **Highest Role** field
-- Added **Badge(s)** field to `+user-info`
+- Added **Badge(s)** field to `+user-info` (currently only hypesquad badges are supported)
 - Made it possible for `+invite-info` to receive guild invite data if the invite could not be detected and is from the current server
 - Added `+twitter`
 - Fixed & Reworked `+youtube`
