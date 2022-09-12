@@ -6,6 +6,12 @@ Checks the warnings of a user
 +check-warns {user}
 ```
 
+### Aliases 
+```
++warns
++warnings
+````
+
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
