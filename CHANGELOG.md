@@ -8,6 +8,7 @@
 - Made it possible for `+invite-info` to receive guild invite data if the invite could not be detected and is from the current server
 - Added `+twitter`
 - Fixed & Reworked `+youtube`
+- Added aliases `warns` and `warnings` to `+check-warns`
 
 ## August
 - Fixed some APIs wasn't working
