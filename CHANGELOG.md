@@ -9,6 +9,7 @@
 - Added `+twitter`
 - Fixed & Reworked `+youtube`
 - Added aliases `warns` and `warnings` to `+check-warns`
+- Added `/review`
 
 ## August
 - Fixed some APIs wasn't working
