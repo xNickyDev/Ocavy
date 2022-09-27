@@ -10,6 +10,7 @@
 - Fixed & Reworked `+youtube`
 - Added aliases `warns` and `warnings` to `+check-warns`
 - Added `/review`
+- Fixed `+user-info`
 
 ## August
 - Fixed some APIs wasn't working
