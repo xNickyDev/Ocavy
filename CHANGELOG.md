@@ -3,6 +3,7 @@
 # 2022
 ## October
 - Fixed `+instagram`
+- Added **Ticket Category** field to `+ticket-info`
 
 ## September
 - Modified `+create-role`. You can now create roles way easier and with more options in 3 steps
