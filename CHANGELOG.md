@@ -1,30 +1,30 @@
 # Changelog
 
 # 2022
-## October
-- Fixed `+instagram`
-- Added **Ticket Category** field to `+ticket-info`
+## Changelog
+- Added channel types `stage` and `forum` to `+create-channel`
 
-## September
-- Modified `+create-role`. You can now create roles way easier and with more options in 3 steps
+## Changelog //2022
+- Fixed some APIs wasn't working
+- Added `+command-info` (Aliases: `+help`, `+command`)
+- Added optional `command` argument to `+help` and `/help`
+- Made it possible to receive **limited** emoji information by specifying just the ID at `+emoji-info`
+- Fixed that sometimes an error message pops up although the selected emoji is valid at `+emoji-info`
+- Improved the interaction loading cooldown at `+akinator`. It should be a little bit more stable now
+- Added `+steal-emoji` (Alias: `+steal`)
+- Changed the default image size to **2048** at `+avatar`
+- Added buttons "Normal Avatar" and "Server Avatar" to `+avatar` (they only show up when the specified user has a server avatar)
+- (BETA) Modified `+create-role`. You can now create roles way easier and with more options in 3 steps
 - Removed the "Roles" field at `+user-info` & instead added new **Highest Role** field
-- Added **Badge(s)** field to `+user-info` (currently only hypesquad badges are supported)
+- Added **Badges** field to `+user-info` (currently only hypesquad badges are supported)
 - Made it possible for `+invite-info` to receive guild invite data if the invite could not be detected and is from the current server
 - Added `+twitter`
 - Fixed & Reworked `+youtube`
 - Added aliases `warns` and `warnings` to `+check-warns`
 - Added `/review`
 - Fixed `+user-info`
-
-## August
-- Fixed some APIs wasn't working
-- Added `+command-info` (Aliases: `+help`, `+command`)
-- Added optional `command` argument to `+help` and `/help`
-- Made it possible to receive **limited** emoji information by specifying just the ID at `+emoji-info`
-- Fixed that sometimes an error message pops up although the selected emoji is valid at `+emoji-info`
-- Added `+steal-emoji` (Alias: `+steal`)
-- Changed the default image size to **2048** at `+avatar`
-- Added buttons "Normal Avatar" and "Server Avatar" to `+avatar` (they only show up when the specified user has a server avatar)
+- Fixed `+instagram`
+- Added **Ticket Category** field to `+ticket-info`
 
 ## Changelog 08/01/2022
 - Added **Reactions** field to `+reaction-info`
