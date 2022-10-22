@@ -4,6 +4,8 @@
 ## Changelog
 - Fixed `+close` is returning wrong error message when using the command in an already closed ticket
 - Added channel types `stage` and `forum` to `+create-channel`
+- Renamed +goggle to `+search`
+- Updated & Optimized `+search`
 
 ## Changelog //2022
 - Fixed some APIs wasn't working
