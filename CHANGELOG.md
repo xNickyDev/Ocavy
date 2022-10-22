@@ -7,7 +7,7 @@
 - Renamed +goggle to `+search`
 - Updated & Optimized `+search`
 
-## Changelog //2022
+## Changelog 10/09/2022
 - Fixed some APIs wasn't working
 - Added `+command-info` (Aliases: `+help`, `+command`)
 - Added optional `command` argument to `+help` and `/help`
