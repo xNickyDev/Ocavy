@@ -4,8 +4,11 @@
 ## Changelog
 - Fixed `+close` is returning wrong error message when using the command in an already closed ticket
 - Added channel types `stage` and `forum` to `+create-channel`
-- Renamed +goggle to `+search`
-- Updated & Optimized `+search`
+- Added alias `search` to `+google`
+- Updated & Optimized `+google`
+- Added Ocavy's GitBook documentation link to `+invite`
+- Added `/create-channel`
+- Updated `+weather`
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
