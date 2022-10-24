@@ -10,6 +10,7 @@
 - Added `/create-channel`
 - Updated `+weather`
 - Fixed `+screenshot` is converting the specified link into all lowercase
+- Fixed `+invite-info`
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
