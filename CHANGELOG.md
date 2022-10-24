@@ -9,6 +9,7 @@
 - Added Ocavy's GitBook documentation link to `+invite`
 - Added `/create-channel`
 - Updated `+weather`
+- Fixed `+screenshot` is converting the specified link into all lowercase
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
