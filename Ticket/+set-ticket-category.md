@@ -1,5 +1,5 @@
 # +set-ticket-category
-Sets a custom category for the tickets
+Sets a custom ticket category
 
 ## Usage
 ```
@@ -10,7 +10,6 @@ Sets a custom category for the tickets
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 category | The category for the tickets. | Category | Yes
- |  |  | 
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/199072593-a70cd76b-cac0-49e2-b281-f0fe2c780a16.png)
