@@ -19,7 +19,7 @@ name | The name of the channel. | String | Yes
 - **`stage`**
 - **`forum`**
 
-> ℹ️ If no type is specified a text channel will be created.
+> **Note** : If no type is specified a text channel will be created.
 
 ## Examples
 ![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/Zi40KGShad.jpg)
