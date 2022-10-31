@@ -1,5 +1,5 @@
 # +untimeout
-Untimeouts a user with optional reason
+Removes the timeout of a user with optional reason
 
 ## Usage
 ```
@@ -13,5 +13,5 @@ user | The user to untimeout. | User | Yes
 reason | The reason for the untimeout if any. | String | No
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/mEsIiCcEQQ.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/LPFOECnSlu.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/mEsIiCcEQQ.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/LPFOECnSlu.jpg)
