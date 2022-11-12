@@ -14,6 +14,7 @@
 - Replaced +give-role and +take-role with `+role` & added new option `removeall`
 - Added `/role`
 - Added `+anime`
+- Fixed Command Info commands weren't working
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
