@@ -13,6 +13,7 @@
 - Fixed `+invite-info`
 - Replaced +give-role and +take-role with `+role` & added new option `removeall`
 - Added `/role`
+- Added `+anime`
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
