@@ -15,6 +15,7 @@
 - Added `/role`
 - Added `+anime`
 - Fixed Command Info commands weren't working
+- Made `+calculator` author-only
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
