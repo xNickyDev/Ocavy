@@ -17,6 +17,7 @@
 - Fixed Command Info commands weren't working
 - Made `+calculator` author-only
 - Updated & Optimized `+user-info`
+- Fixed `/user-info` not working in DMs
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
