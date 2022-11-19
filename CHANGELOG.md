@@ -18,6 +18,9 @@
 - Made `+calculator` author-only
 - Updated & Optimized `+user-info`
 - Fixed `/user-info` not working in DMs
+- Added `+auto-role`
+- Added `/auto-role`
+- Added `/toggle`
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
