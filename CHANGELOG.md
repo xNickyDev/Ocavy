@@ -21,6 +21,7 @@
 - Added `+auto-role`
 - Added `/auto-role`
 - Added `/toggle`
+- Added **Boost Count** field to `+server-info`
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
