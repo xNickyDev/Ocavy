@@ -22,6 +22,9 @@
 - Added `/auto-role`
 - Added `/toggle`
 - Added **Boost Count** field to `+server-info`
+- Added buttons to the ticket message when creating tickets via panel
+- Fixed the modal of `+panel` is displaying an error after creating a new ticket
+- Fixed sometimes no ephemeral message is sent after ticket creation with `+panel`
 
 ## Changelog 10/09/2022
 - Fixed some APIs wasn't working
