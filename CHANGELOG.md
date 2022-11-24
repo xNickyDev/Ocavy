@@ -2,6 +2,9 @@
 
 # 2022
 ## Changelog
+- Added system "Logging" to `/toggle`
+
+## Changelog 11/23/2022
 - Fixed `+close` is returning wrong error message when using the command in an already closed ticket
 - Added channel types `stage` and `forum` to `+create-channel`
 - Added alias `search` to `+google`
