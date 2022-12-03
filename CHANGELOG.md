@@ -8,6 +8,7 @@
 - Added `/config-logging`
 - Made it possible to calculate with decimals at `+calculate`
 - Made it possible to use multiple `0` in a number at `+calculate`
+- Added `+hangman`
 
 ## Changelog 11/23/2022
 - Fixed `+close` is returning wrong error message when using the command in an already closed ticket
