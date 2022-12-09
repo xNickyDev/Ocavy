@@ -7,7 +7,7 @@ Quotes a message
 +quote <message link>
 ```
 
-## Arguments | Usage 1
+## Arguments 1
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 messageID | The ID of the message to quote. | Message | Yes
@@ -16,7 +16,7 @@ channel | The channel of the message to quote. | Channel | No
 > **Note** : If you want to quote a message from an other channel, you need to specify the channel of the message.
 
 
-## Arguments | Usage 2
+## Arguments 2
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
 message link | The link of the message to quote. | URL | Yes
