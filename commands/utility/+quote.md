@@ -18,7 +18,7 @@ Name | Description | Type | Required
 :-- | :-- | :-- | :--
 message link | The link of the message to quote. | URL | Yes
 
-> **Info** : If you want to quote a message from an other channel, you need to specify the channel of the message.
+> **Note** : If you want to quote a message from an other channel, you need to specify the channel of the message.
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/206759176-8a3cc877-6405-42e5-b32d-4bc79fa6937f.png)
