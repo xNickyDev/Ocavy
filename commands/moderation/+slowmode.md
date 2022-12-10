@@ -25,6 +25,6 @@ To disable the slowmode simply use `0` or `off` as duration.
 > **Note** : If no channel is mentioned the slowmode will be enabled/disabled in the current channel.
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/g7PLxHOA-k.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/CkKgdrZA1a.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/hf6DDBnNLY.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/g7PLxHOA-k.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/CkKgdrZA1a.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/hf6DDBnNLY.jpg)

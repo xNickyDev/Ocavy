@@ -22,5 +22,5 @@ name | The name of the channel. | String | Yes
 > **Note** : If no type is specified a text channel will be created.
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/Zi40KGShad.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/JGAroVgdHJ.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/Zi40KGShad.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/JGAroVgdHJ.jpg)

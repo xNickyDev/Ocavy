@@ -13,5 +13,5 @@ user | The user to mute. | User | Yes
 reason | The reason for the mute if any. | String | No
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/dtdaZlgx0a.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/-QTwpCrmU5.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/dtdaZlgx0a.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/-QTwpCrmU5.jpg)

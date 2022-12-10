@@ -13,5 +13,5 @@ messageID | The message to pin. | Message | Yes
 channel | The channel of the message to pin. | Channel | Yes
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/qQDL3p3yYG.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/QQBmldtWem.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/qQDL3p3yYG.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/QQBmldtWem.jpg)

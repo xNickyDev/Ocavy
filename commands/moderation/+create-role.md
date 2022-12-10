@@ -15,4 +15,4 @@ display role | If the role should be displayed. | Boolean | Yes
  mentionable | If the role should be mentionable. | Boolean | Yes
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/VQeda_YtIA.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/VQeda_YtIA.jpg)

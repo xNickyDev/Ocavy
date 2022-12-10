@@ -17,5 +17,5 @@ new nickname | The new nickname. | String | Yes
 >  **Mention** = Changes the nickname of the mentioned user
 
 ## Examples
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/kFyoTDAFyG.jpg)
-![image](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/q-czuaHigW.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/kFyoTDAFyG.jpg)
+![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/q-czuaHigW.jpg)
