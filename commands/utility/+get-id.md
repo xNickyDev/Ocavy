@@ -9,6 +9,6 @@ Gets ID of provided elemet
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-user/channel/role/emoji/server | The element which ID is to be returned. | User <br>Channel <br>Role <br>Emoji <br>Server | Yes
+user <br>channel <br>role <br>emoji <br>server | The element which ID is to be returned. | User <br>Channel <br>Role <br>Emoji <br>Server | Yes
 
 ## Examples
