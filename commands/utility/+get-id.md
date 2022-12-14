@@ -11,6 +11,8 @@ Name | Description | Type | Required
 :-- | :-- | :-- | :--
 user <br>channel <br>role <br>emoji <br>server | The element which ID is to be returned. | User <br>Channel <br>Role <br>Emoji <br>Server | Yes
 
+> **Note** You can specify `server` as element to get the ID of the current server.
+
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/207626120-ada50380-9ebe-42fc-906c-2e0ddb1868c3.png)
 ![](https://user-images.githubusercontent.com/111157596/207626133-08a128b1-2c27-4d5f-8f93-4fd5766bb380.png)
