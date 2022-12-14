@@ -1,5 +1,5 @@
 # +get-id
-Gets ID of provided elemet
+Gets ID of provided element
 
 ## Usage
 ```
