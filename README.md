@@ -7,6 +7,8 @@ GitHub documentation of Ocavy Discord-Bot
 
 </div>
 
+---
+
 ### Links
 - [Documentation](https://xnickydev.gitbook.io/ocavy)
 - [Invite Ocavy](https://discordapp.com/oauth2/authorize?client_id=790951045353963551&scope=applications.commands%20bot&permissions=2146958847)
