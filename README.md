@@ -3,7 +3,7 @@
 [![Ocavy](https://cdn.discordapp.com/emojis/900688053394345994.webp?size=4096&quality=high)](https://discord.gg/DEEZY5cwpy)
 
 # Ocavy
-GitHub documentation of Ocavy Discord-Bot
+Official GitHub documentation of Ocavy Discord-Bot
 
 </div>
 
