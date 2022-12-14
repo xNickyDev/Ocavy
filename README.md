@@ -8,6 +8,8 @@ Official GitHub documentation of Ocavy Discord-Bot
 </div>
 
 ---
+## Who is Ocavy?
+Ocavy is a friendly avocado, based on Moderation. Ocavy is created to moderate your Discord server with advanced, safe and easy to use moderation commands and features.
 
 ### Links
 - [Documentation](https://xnickydev.gitbook.io/ocavy)
