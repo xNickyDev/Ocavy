@@ -11,7 +11,7 @@ Name | Description | Type | Required
 :-- | :-- | :-- | :--
 channel | The channel to receive information from. | Channel | No
 
-> **Note** : If no channel is specified the current channel's information will be returned.
+> **Note** : If no channel is specified, the current channel's information will be returned.
 
 ## Examples
 ![](https://user-images.githubusercontent.com/111157596/185218976-d6719305-acc1-471f-bf32-695b758999cf.png)
