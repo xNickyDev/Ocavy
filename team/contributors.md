@@ -11,7 +11,7 @@ I'm Nicky from Germany.
 I enjoy coding and translating. Nice to meet you 👋
 
 
-## Shapp#8741
+## <img src="https://cdn.discordapp.com/embed/avatars/1.png" width="30"/> Shapp#8741
 Team, Contributor
 
 ### About Me
