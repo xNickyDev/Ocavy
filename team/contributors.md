@@ -2,7 +2,7 @@
 Volunteers that are writing and updating the wiki articles
 
 
-## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" width="150"/> Nicky#6773
+## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" width="60"/> Nicky#6773
 Owner, Main Contributor
 
 ### About Me
