@@ -1,0 +1,20 @@
+# Contributors
+Volunteers that are writing and updating the wiki articles
+
+
+## ![](https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png) Nicky#6773
+Owner, Main Contributor
+
+### About Me
+I'm Nicky from Germany.
+
+I enjoy coding and translating. Nice to meet you 👋
+
+
+## Shapp#8741
+Team, Contributor
+
+### About Me
+Hi, my name is Shapp 👋
+
+I belong to the official Team of Ocavy and I enjoy helping with the wiki articles! Hope to see you around 😄
