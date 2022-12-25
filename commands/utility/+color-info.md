@@ -1,5 +1,5 @@
 # +color-info
-Returns information about the specified color hex
+Returns information about the specified color
 
 ## Usage
 ```
@@ -9,7 +9,7 @@ Returns information about the specified color hex
 ## Arguments
 Name | Description | Type | Required
 :-- | :-- | :-- | :--
-hex <br>role | The color hex to receive information about. | HEX <br>Role | Yes
+hex <br>role | The color to receive information about. | HEX <br>Role | Yes
 
 > **Note** : If you specifiy a role the color information about the role's color is returned.
 
