@@ -9,6 +9,7 @@
 - Made it possible to calculate with decimals at `+calculate`
 - Made it possible to use multiple `0` in a number at `+calculate`
 - Added `+hangman`
+- Added **Reason** field to logging action "User Banned (Auto)"
 
 ## Changelog 11/23/2022
 - Fixed `+close` is returning wrong error message when using the command in an already closed ticket
