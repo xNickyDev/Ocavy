@@ -1,6 +1,6 @@
 # Changelog
 
-# 2022
+# 2023
 ## Changelog
 - Added system "Logging" to `/toggle`
 - Removed `+enable-logs` (Deprecated)
@@ -11,6 +11,7 @@
 - Added `+hangman`
 - Added **Reason** field to logging action "User Banned (Auto)"
 
+# 2022
 ## Changelog 11/23/2022
 - Fixed `+close` is returning wrong error message when using the command in an already closed ticket
 - Added channel types `stage` and `forum` to `+create-channel`
