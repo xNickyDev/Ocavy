@@ -10,6 +10,8 @@
 - Made it possible to use multiple `0` in a number at `+calculate`
 - Added `+hangman`
 - Added **Reason** field to logging action "User Banned (Auto)"
+- Added `+kill`
+- Made it possible for `+quote` to quote messages by replying to them 
 
 # 2022
 ## Changelog 11/23/2022
