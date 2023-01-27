@@ -11,7 +11,8 @@
 - Added `+hangman`
 - Added **Reason** field to logging action "User Banned (Auto)"
 - Added `+kill`
-- Made it possible for `+quote` to quote messages by replying to them 
+- Made it possible for `+quote` to quote messages by replying to them
+- Updated `+dog`
 
 # 2022
 ## Changelog 11/23/2022
