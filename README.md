@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="css/style.css">
 <div align="center">
 
 [![Ocavy](https://cdn.discordapp.com/emojis/900688053394345994.webp?size=4096&quality=high)](https://discord.gg/DEEZY5cwpy)
