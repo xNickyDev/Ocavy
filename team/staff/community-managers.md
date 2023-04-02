@@ -1,9 +1,9 @@
-# Moderators
-The Moderators of our Support Server
+# Community Managers
+The Community Managers of our Support Server
 
 
 ## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" width="30"/> Nicky#6773
-Head Moderator
+Head Community Manager
 
 ### About Me
 I'm Nicky from Germany.
