@@ -12,7 +12,7 @@ I enjoy coding and translating. Nice to meet you 👋
 
 
 ## <img src="https://cdn.discordapp.com/embed/avatars/1.png" width="30"/> Shapp#8741
-Team, Community Manager
+Team, Community Manager,
 
 ### About Me
 Hi, my name is Shapp 👋
