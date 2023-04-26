@@ -1,2 +1,5 @@
-# Moderation
+---
+description: Moderation Commands
+---
 
+# Moderation
