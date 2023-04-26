@@ -9,7 +9,7 @@
 
 ## Commands
 
-- [Moderation]
+- Moderation
     - [+ban](commands/moderation/+ban.md)
     - [+change-nickname](commands/moderation/+change-nickname.md)
     - [+check-warns](commands/moderation/+check-warns.md)
@@ -32,7 +32,6 @@
     - [+unpin](commands/moderation/+unpin.md)
     - [+untimeout](commands/moderation/+untimeout.md)
     - [+warn](commands/moderation/+warn.md)
-
 - Utility
     - [+avatar](commands/utility/+avatar.md)
     - [+banner](commands/utility/+banner.md)
@@ -58,11 +57,50 @@
     - [+timezones](commands/utility/+timezones.md)
     - [+user-info](commands/utility/+user-info.md)
     - [+user-perms](commands/utility/+user-perms.md)
+- Ticket
+    - [+add-member](commands/ticket/+add-member.md)
+    - [+close](commands/ticket/+close.md)
+    - [+panel](commands/ticket/+panel.md)
+    - [+remove-member](commands/ticket/+remove-member.md)
+    - [+reset-ticket-message](commands/ticket/+reset-ticket-message.md)
+    - [+set-ticket-category](commands/ticket/+set-ticket-category.md)
+    - [+set-ticket-message](commands/ticket/+set-ticket-message.md)
+    - [+ticket](commands/ticket/+ticket.md)
+- Config
+    - [+change-timezone](commands/config/+change-timezone.md)
+    - [+set-mod-role](commands/config/+set-mod-role.md)
+- Fun
+    - [+anime](commands/fun/+anime.md)
+    - [+bite](commands/fun/+bite.md)
+    - [+car](commands/fun/+car.md)
+    - [+cat](commands/fun/+cat.md)
+    - [+cuddle](commands/fun/+cuddle.md)
+    - [+dog](commands/fun/+dog.md)
+    - [+feed](commands/fun/+feed.md)
+    - [+google](commands/fun/+google.md)
+    - [+hangman](commands/fun/+hangman.md)
+    - [+hug](commands/fun/+hug.md)
+    - [+joke](commands/fun/+joke.md)
+    - [+kiss](commands/fun/+kiss.md)
+    - [+lyrics](commands/fun/+lyrics.md)
+    - [+meme](commands/fun/+meme.md)
+    - [+neko](commands/fun/+neko.md)
+    - [+pat](commands/fun/+pat.md)
+    - [+rps](commands/fun/+rps.md)
+    - [+screenshot](commands/fun/+screenshot.md)
+    - [+slap](commands/fun/+slap.md)
+    - [+song](commands/fun/+song.md)
+    - [+twitter](commands/fun/+twitter.md)
+    - [+youtube](commands/fun/+youtube.md)
+- Slash
+    - [/channel-info](commands/slash/channel-info.md)
 
 ## Team
 
-- [Staff]()
-    - [Developers](team/staff/developers)
+- Staff
+    - [Developers](team/staff/developers.md)
+    - [Community Managers](team/staff/community-managers.md)
+    - [Moderators](team/staff/moderators.md)
 * [Contributors](team/contributors.md)
 
 ## Legal
