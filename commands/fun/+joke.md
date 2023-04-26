@@ -1,7 +1,11 @@
+---
+description: Returns a random joke
+---
+
 # +joke
-Returns a random joke
 
 ## Usage
+
 ```
 +joke
 ```

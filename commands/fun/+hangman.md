@@ -1,7 +1,11 @@
+---
+description: Play the "Hangman" game
+---
+
 # +hangman
-Play the "Hangman" game
 
 ## Usage
+
 ```
 +hangman
 ```

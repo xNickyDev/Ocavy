@@ -12,12 +12,12 @@ description: Removes warnings from a user
 
 ## Arguments
 
-| Name                                                                 | Description                       | Type        | Required |
-| -------------------------------------------------------------------- | --------------------------------- | ----------- | -------- |
-| user                                                                 | The user to remove warnings from. | User        | Yes      |
-| [amount](../../Moderation/+remove-warns.md#possibilities-for-amount) | The amount of warnings to remove. | Enum/Number | Yes      |
+| Name                                      | Description                       | Type        | Required |
+| ----------------------------------------- | --------------------------------- | ----------- | -------- |
+| user                                      | The user to remove warnings from. | User        | Yes      |
+| <mark style="color:purple;">amount</mark> | The amount of warnings to remove. | Enum/Number | Yes      |
 
-### Possibilities for [_amount_](../../Moderation/+remove-warns.md#arguments)
+### Possibilities for <mark style="color:purple;">`amount`</mark>
 
 * **`all`** - Removes all warnings
 * **`case number`** (e.g. 12, 251) - Removes one specific case/warning

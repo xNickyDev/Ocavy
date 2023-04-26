@@ -1,7 +1,11 @@
+---
+description: Closes an opened ticket
+---
+
 # +close
-Closes an opened ticket
 
 ## Usage
+
 ```
 +close
 ```

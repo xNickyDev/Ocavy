@@ -12,12 +12,12 @@ description: Creates a new channel
 
 ## Arguments
 
-| Name                                                               | Description              | Type   | Required |
-| ------------------------------------------------------------------ | ------------------------ | ------ | -------- |
-| name                                                               | The name of the channel. | String | Yes      |
-| [type](../../Moderation/+create-channel.md#possibilities-for-type) | The type of the channel. | Enum   | No       |
+| Name                                    | Description              | Type   | Required |
+| --------------------------------------- | ------------------------ | ------ | -------- |
+| name                                    | The name of the channel. | String | Yes      |
+| <mark style="color:purple;">type</mark> | The type of the channel. | Enum   | No       |
 
-### Possibilities for [_type_](../../Moderation/+create-channel.md#arguments)
+### Possibilities for <mark style="color:purple;">`type`</mark>
 
 * **`text`**
 * **`voice`**
@@ -25,7 +25,9 @@ description: Creates a new channel
 * **`stage`**
 * **`forum`**
 
-> **Note** : If no type is specified a text channel will be created.
+{% hint style="info" %}
+If no type is specified, a text channel will be created.
+{% endhint %}
 
 ## Examples
 

@@ -1,7 +1,11 @@
+---
+description: Returns all server emojis
+---
+
 # +server-emojis
-Returns all server emojis
 
 ## Usage
+
 ```
 +server-emojis
 ```

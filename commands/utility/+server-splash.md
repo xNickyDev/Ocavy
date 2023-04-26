@@ -1,7 +1,11 @@
+---
+description: Returns the server splash of current server
+---
+
 # +server-splash
-Returns the server splash of current server
 
 ## Usage
+
 ```
 +server-splash
 ```

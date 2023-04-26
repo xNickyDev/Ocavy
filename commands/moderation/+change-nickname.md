@@ -17,9 +17,11 @@ description: Changes the nickname of a user
 | @user        | The user whose nickname is to be changed. | User   | No       |
 | new nickname | The new nickname.                         | String | Yes      |
 
-> **No mention** = Changes your own nickname
->
-> **Mention** = Changes the nickname of the mentioned user
+{% hint style="info" %}
+**No mention** = Changes your own nickname
+
+**Mention** = Changes the nickname of the mentioned user
+{% endhint %}
 
 ## Examples
 

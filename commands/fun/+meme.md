@@ -1,7 +1,11 @@
+---
+description: Returns a random meme
+---
+
 # +meme
-Returns a random meme
 
 ## Usage
+
 ```
 +meme
 ```

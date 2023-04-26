@@ -1,7 +1,11 @@
+---
+description: Creates a new ticket panel in current channel
+---
+
 # +panel
-Creates a new ticket panel in current channel
 
 ## Usage
+
 ```
 +panel
 ```

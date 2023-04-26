@@ -1,7 +1,11 @@
+---
+description: Returns information about Ocavy
+---
+
 # +bot-info
-Returns information about Ocavy
 
 ## Usage
+
 ```
 +bot-info
 ```

@@ -29,7 +29,9 @@ Examples: `4s`, `4m`, `4h`
 
 To disable the slowmode simply use `0` or `off` as duration.
 
-> **Note** : If no channel is mentioned the slowmode will be enabled/disabled in the current channel.
+{% hint style="info" %}
+If no channel is mentioned, the slowmode will be enabled/disabled in the current channel.
+{% endhint %}
 
 ## Examples
 

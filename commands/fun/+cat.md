@@ -1,7 +1,11 @@
+---
+description: Returns a random cat picture
+---
+
 # +cat
-Returns a random cat picture
 
 ## Usage
+
 ```
 +cat
 ```

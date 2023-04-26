@@ -1,7 +1,11 @@
+---
+description: Returns a list of all available timezones
+---
+
 # +timezones
-Returns a list of all available timezones
 
 ## Usage
+
 ```
 +timezones
 ```

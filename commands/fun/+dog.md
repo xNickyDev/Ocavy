@@ -1,7 +1,11 @@
+---
+description: Returns a random dog picture
+---
+
 # +dog
-Returns a random dog picture
 
 ## Usage
+
 ```
 +dog
 ```
