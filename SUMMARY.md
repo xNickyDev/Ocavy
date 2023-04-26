@@ -94,3 +94,15 @@
   - [+youtube](commands/fun/+youtube.md)
 - [Slash]()
   - [/channel-info](commands/slash/channel-info.md)
+
+## Team
+
+- [Staff]()
+  - [Developers](team/staff/developers.md)
+  - [Moderators](team/staff/moderators.md)
+* [Contributors](team/contributors.md)
+
+## Legal
+
+- [Privacy Policy](legal/privacy-policy.md)
+- [Terms and Conditions](legal/terms-and-conditions.md)
