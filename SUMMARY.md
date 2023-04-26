@@ -61,8 +61,8 @@
 
 ## Team
 
-* [Staff]()
-  * [Developers](team/staff/developers)
+- [Staff]()
+    - [Developers](team/staff/developers)
 * [Contributors](team/contributors.md)
 
 ## Legal
