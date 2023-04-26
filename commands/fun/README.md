@@ -1,2 +1,5 @@
-# Fun
+---
+description: Fun Commands
+---
 
+# Fun
