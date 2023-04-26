@@ -1,3 +1,0 @@
----
-description: Moderation Commands
----
