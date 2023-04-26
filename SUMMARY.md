@@ -99,6 +99,7 @@
 
 - [Staff]()
   - [Developers](team/staff/developers.md)
+  - [Community Managers](team/staff/community-managers.md)
   - [Moderators](team/staff/moderators.md)
 * [Contributors](team/contributors.md)
 
