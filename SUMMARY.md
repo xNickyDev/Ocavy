@@ -9,7 +9,7 @@
 
 ## Commands
 
-- [Moderation]()
+- [Moderation]
     - [+ban](commands/moderation/+ban.md)
     - [+change-nickname](commands/moderation/+change-nickname.md)
     - [+check-warns](commands/moderation/+check-warns.md)
@@ -33,7 +33,7 @@
     - [+untimeout](commands/moderation/+untimeout.md)
     - [+warn](commands/moderation/+warn.md)
 
-- [Utility]()
+- Utility
     - [+avatar](commands/utility/+avatar.md)
     - [+banner](commands/utility/+banner.md)
     - [+bot-info](commands/utility/+bot-info.md)
