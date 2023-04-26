@@ -32,6 +32,7 @@
   - [+unpin](commands/moderation/+unpin.md)
   - [+untimeout](commands/moderation/+untimeout.md)
   - [+warn](commands/moderation/+warn.md)
+
 - [Utility]()
   - [+avatar](commands/utility/+avatar.md)
   - [+banner](commands/utility/+banner.md)
@@ -57,6 +58,7 @@
   - [+timezones](commands/utility/+timezones.md)
   - [+user-info](commands/utility/+user-info.md)
   - [+user-perms](commands/utility/+user-perms.md)
+
 - [Ticket]()
   - [+add-member](commands/ticket/+add-member.md)
   - [+close](commands/ticket/+close.md)
@@ -66,9 +68,11 @@
   - [+set-ticket-category](commands/ticket/+set-ticket-category.md)
   - [+set-ticket-message](commands/ticket/+set-ticket-message.md)
   - [+ticket](commands/ticket/+ticket.md)
+
 - [Config]()
   - [+change-timezone](commands/config/+change-timezone.md)
   - [+set-mod-role](commands/config/+set-mod-role.md)
+
 - [Fun]()
   - [+anime](commands/fun/+anime.md)
   - [+bite](commands/fun/+bite.md)
@@ -92,6 +96,7 @@
   - [+song](commands/fun/+song.md)
   - [+twitter](commands/fun/+twitter.md)
   - [+youtube](commands/fun/+youtube.md)
+
 - [Slash]()
   - [/channel-info](commands/slash/channel-info.md)
 
@@ -101,9 +106,9 @@
   - [Developers](team/staff/developers.md)
   - [Community Managers](team/staff/community-managers.md)
   - [Moderators](team/staff/moderators.md)
-* [Contributors](team/contributors.md)
+- [Contributors](team/contributors.md)
 
 ## Legal
 
-* [Privacy Policy](legal/privacy-policy.md)
-* [Terms and Conditions](legal/terms-and-conditions.md)
+- [Privacy Policy](legal/privacy-policy.md)
+- [Terms and Conditions](legal/terms-and-conditions.md)
