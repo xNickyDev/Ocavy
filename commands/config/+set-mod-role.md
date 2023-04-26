@@ -1,7 +1,7 @@
 # +set-mod-role
 Set up a moderator role
 
-> **Note** : With the moderator role you gain members access to moderation related commands and features.
+> **Warning** : With the moderator role you gain members access to moderation related commands and features.
 
 ## Usage
 ```
