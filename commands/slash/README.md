@@ -1,2 +1,5 @@
-# Slash
+---
+description: Slash Commands
+---
 
+# Slash
