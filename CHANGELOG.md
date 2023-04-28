@@ -14,6 +14,10 @@
 - Added `+kill`
 - Made it possible for `+quote` to quote messages by replying to them
 - Updated `+dog`
+- Fixed `Command Info` commands returned messy/incorrect information
+
+
+
 
 # 2022
 ## Changelog 11/23/2022
