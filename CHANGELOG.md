@@ -1,6 +1,7 @@
 # Changelog
 
-# 2023
+## 2023
+
 ## Changelog
 - Added system "Logging" to `/toggle`
 - Removed `+enable-logs` (Deprecated)
