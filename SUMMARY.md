@@ -4,6 +4,7 @@
 
 ## Resources
 
+* [Invite Ocavy](https://discordapp.com/oauth2/authorize?client\_id=790951045353963551\&scope=applications.commands%20bot\&permissions=2146958847)
 * [Support Server](https://discord.gg/DEEZY5cwpy)
 * [Changelog](CHANGELOG.md)
 
