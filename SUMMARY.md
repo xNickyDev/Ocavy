@@ -46,6 +46,8 @@
   * [+help](commands/utility/+help.md)
   * [+invite-info](commands/utility/+invite-info.md)
   * [+invite](commands/utility/+invite.md)
+  * [+ping](commands/utility/+ping.md)
+  * [+placeholders](commands/utility/+placeholders.md)
   * [+quote](commands/utility/+quote.md)
   * [+reaction-info](commands/utility/+reaction-info.md)
   * [+role-info](commands/utility/+role-info.md)
