@@ -38,6 +38,7 @@
   * [+banner](commands/utility/+banner.md)
   * [+bot-info](commands/utility/+bot-info.md)
   * [+channel-info](commands/utility/+channel-info.md)
+  * [+changelog](commands/utility/+changelog.md)
   * [+characters](commands/utility/+characters.md)
   * [+color-info](commands/utility/+color-info.md)
   * [+emoji-info](commands/utility/+emoji-info.md)
