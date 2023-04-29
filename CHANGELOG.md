@@ -16,6 +16,7 @@
 * Made it possible for `+quote` to quote messages by replying to them
 * Updated `+dog`
 * Fixed `Command Info` commands returned messy/incorrect information
+* Officially added `+changelog`
 
 ## 2022
 
