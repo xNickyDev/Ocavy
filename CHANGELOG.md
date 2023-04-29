@@ -17,6 +17,7 @@
 * Updated `+dog`
 * Fixed `Command Info` commands returned messy/incorrect information
 * Officially added `+changelog`
+* Partly fixed `+timezones`, `+timezone-info` and `+change-timezone` not working properly. If you encounter any issue with these commands, keep executing the command/action
 
 ## 2022
 
