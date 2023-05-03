@@ -21,6 +21,7 @@
 * Fixed incorrect count number in the **Reactions** field of `+reaction-info`
 * Fixed `+neko` requiring arguments when executing
 * Fixed `+cat`
+* Officially added `+kill`
 
 ## 2022
 
