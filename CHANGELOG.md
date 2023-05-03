@@ -20,6 +20,7 @@
 * Partly fixed `+timezones`, `+timezone-info` and `+change-timezone` not working properly. If you encounter any issue with these commands, keep executing the command/action
 * Fixed incorrect count number in the **Reactions** field of `+reaction-info`
 * Fixed `+neko` requiring arguments when executing
+* Fixed `+cat`
 
 ## 2022
 
