@@ -22,7 +22,7 @@
 * Fixed `+neko` requiring arguments when executing
 * Fixed `+cat`
 * Officially added `+kill`
-* Removed the image link off the emoji at `+emoji-info`
+* Removed the image link from the emoji at `+emoji-info`
 
 ## 2022
 
