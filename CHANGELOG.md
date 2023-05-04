@@ -23,6 +23,8 @@
 * Fixed `+cat`
 * Officially added `+kill`
 * Removed the image link from the emoji at `+emoji-info`
+* Added `+id-info`
+* Made it possible for `+get-id` to get the message ID of a message by relying to it
 
 ## 2022
 
