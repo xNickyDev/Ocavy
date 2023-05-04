@@ -24,7 +24,7 @@
 * Officially added `+kill`
 * Removed the image link from the emoji at `+emoji-info`
 * Added `+id-info`
-* Made it possible for `+get-id` to get the ID of a message by relying to it
+* Made it possible for `+get-id` to get the ID of a message by replying to it
 
 ## 2022
 
