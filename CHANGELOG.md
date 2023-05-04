@@ -25,6 +25,8 @@
 * Removed the image link from the emoji at `+emoji-info`
 * Added `+id-info`
 * Made it possible for `+get-id` to get the ID of a message by replying to it
+* Added alias `h` to `+help`
+* Added alias `cmdinfo` to `+command-info`
 
 ## 2022
 
