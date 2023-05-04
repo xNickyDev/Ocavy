@@ -10,6 +10,11 @@ description: Ocavy Commands Help
 +help {category/command}
 ```
 
+### Aliases
+```
++h
+```
+
 ## Arguments
 
 | Name     | Description                                                | Type         | Required |
