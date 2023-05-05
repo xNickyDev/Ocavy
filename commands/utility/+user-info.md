@@ -12,9 +12,9 @@ description: Returns information about a user
 
 ### Aliases
 ```
-ui
-user
-userinfo
++ui
++user
++userinfo
 ```
 
 ## Arguments
