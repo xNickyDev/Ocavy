@@ -21,4 +21,4 @@ description: Creates a new role
 
 ## Examples
 
-![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/VQeda\_YtIA.jpg)
+![](https://user-images.githubusercontent.com/111157596/236548141-889b8035-4a06-4923-8927-a876d293a3bd.png)
