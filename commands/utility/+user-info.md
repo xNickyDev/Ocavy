@@ -10,6 +10,13 @@ description: Returns information about a user
 +user-info {user}
 ```
 
+### Aliases
+```
+ui
+user
+userinfo
+```
+
 ## Arguments
 
 | Name | Description                           | Type | Required |
