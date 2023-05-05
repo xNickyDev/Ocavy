@@ -19,4 +19,4 @@ description: Creates a new server emoji
 
 ## Examples
 
-![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/W\_nnwLIYm8.jpg)
+![](https://user-images.githubusercontent.com/111157596/236548270-6e3ce5c3-4eb3-44d2-b506-cae284a8f7a4.png)
