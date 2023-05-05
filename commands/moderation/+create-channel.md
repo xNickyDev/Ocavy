@@ -31,4 +31,5 @@ If no type is specified, a text channel will be created.
 
 ## Examples
 
-![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/Zi40KGShad.jpg) ![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/JGAroVgdHJ.jpg)
+![](https://user-images.githubusercontent.com/111157596/236548363-aa2e6ba4-131b-483a-adfe-0f66f59cfb05.png)
+![](https://user-images.githubusercontent.com/111157596/236548430-452d2097-bc2e-45e0-8c52-4e85a4167ede.png)
