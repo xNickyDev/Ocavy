@@ -27,6 +27,8 @@
 * Made it possible for `+get-id` to get the ID of a message by replying to it
 * Added alias `h` to `+help`
 * Added alias `cmdinfo` to `+command-info`
+* Updated & Optimized `+user-info`
+* Added aliases `userinfo`, `user` and `ui` to `+user-info`
 
 ## 2022
 
