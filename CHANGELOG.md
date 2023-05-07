@@ -36,7 +36,6 @@
 * Added aliases `emojiinfo` and `emoji` to `+emoji-info`
 * Added aliases `channelinfo` and `channel` to `+channel-info`
 * Updated `+channel-info`
->
 * Temporarily disabled `+role` until we fixed some issues 👍
 
 ## 2022
