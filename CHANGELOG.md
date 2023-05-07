@@ -29,6 +29,15 @@
 * Added alias `cmdinfo` to `+command-info`
 * Updated & Optimized `+user-info`
 * Added aliases `userinfo`, `user` and `ui` to `+user-info`
+* Added aliases `serverinfo` and `server` to `+server-info`
+* Added aliases `roleinfo` and `role` to `+role-info`
+* Added aliases `botinfo`, `botstats` and `stats` to `+bot-info`
+* Updated `+bot-info`
+* Added aliases `emojiinfo` and `emoji` to `+emoji-info`
+* Added aliases `channelinfo` and `channel` to `+channel-info`
+* Updated `+channel-info`
+>
+* Temporarily disabled `+role` until we fixed some issues 👍
 
 ## 2022
 
