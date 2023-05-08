@@ -2,6 +2,10 @@
 
 ## 2023
 
+## Changelog
+
+- Removed +role and split it in two separate commands instead; `+add-role` and `+remove-role`
+
 ### Changelog 05/07/2023
 
 * Added system "Logging" to `/toggle`
@@ -36,7 +40,7 @@
 * Added aliases `emojiinfo` and `emoji` to `+emoji-info`
 * Added aliases `channelinfo` and `channel` to `+channel-info`
 * Updated `+channel-info`
-* Temporarily disabled `+role` until we fixed some issues 👍
+* ~~Temporarily disabled `+role` until we fixed some issues 👍~~
 
 ## 2022
 
