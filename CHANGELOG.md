@@ -4,7 +4,7 @@
 
 ### Changelog
 
-- Removed +role and split it in two separate commands instead; `+add-role` and `+remove-role`
+- Removed `+role` and split it in two separate commands instead; `+add-role` and `+remove-role`
 
 ### Changelog 05/07/2023
 
