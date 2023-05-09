@@ -4,7 +4,7 @@ description: Removes a single or all roles from a user
 
 # +remove-role
 
-## Usages
+## Usage
 ```
 +remove-role <user> <role>
 +remove-role all <user>
