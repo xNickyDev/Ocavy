@@ -4,7 +4,7 @@ description: Quotes a message
 
 # +quote
 
-## Usages
+## Usage
 
 ```
 +quote <messageID> {channel}
