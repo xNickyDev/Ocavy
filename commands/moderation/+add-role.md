@@ -1,5 +1,5 @@
 ---
-description: Adds a role to a user
+description: Adds a single role to a user
 ---
 
 # +add-role
