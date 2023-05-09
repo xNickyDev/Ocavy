@@ -10,7 +10,7 @@ description: Returns the banner of a user
 +banner {user}
 ```
 
-### Aliases
+### Alias
 
 ```
 +user-banner
