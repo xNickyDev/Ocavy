@@ -11,6 +11,7 @@
 ## Commands
 
 * [Moderation](commands/moderation/README.md)
+  * [+add-role](commands/moderation/+add-role.md)
   * [+ban](commands/moderation/+ban.md)
   * [+change-nickname](commands/moderation/+change-nickname.md)
   * [+check-warns](commands/moderation/+check-warns.md)
@@ -24,6 +25,7 @@
   * [+lock](commands/moderation/+lock.md)
   * [+mute](commands/moderation/+mute.md)
   * [+pin](commands/moderation/+pin.md)
+  * [+remove-role](commands/moderation/+remove-role.md)
   * [+remove-warns](commands/moderation/+remove-warns.md)
   * [+slowmode](commands/moderation/+slowmode.md)
   * [+steal-emoji](commands/moderation/+steal-emoji.md)
@@ -85,6 +87,7 @@
   * [+hangman](commands/fun/+hangman.md)
   * [+hug](commands/fun/+hug.md)
   * [+joke](commands/fun/+joke.md)
+  * [+kill](commands/fun/+kill.md)
   * [+kiss](commands/fun/+kiss.md)
   * [+lyrics](commands/fun/+lyrics.md)
   * [+meme](commands/fun/+meme.md)
