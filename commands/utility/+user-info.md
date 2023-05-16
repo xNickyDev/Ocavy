@@ -14,6 +14,7 @@ description: Returns information about a user
 ```
 +ui
 +user
++whois
 +userinfo
 ```
 
