@@ -7,6 +7,7 @@
 * Removed `+role` and split it in two separate commands instead; `+add-role` and `+remove-role`
 * Fixed `/emoji-info`, `/role-info`, `/channel-info` and `/server-info` not working
 * Added alias `whois` to `+user-info`
+* Fixed `+joke`
 
 ### Changelog 05/07/2023
 
