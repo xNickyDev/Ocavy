@@ -8,6 +8,7 @@
 * Fixed `/emoji-info`, `/role-info`, `/channel-info` and `/server-info` not working
 * Added alias `whois` to `+user-info`
 * Fixed `+joke`
+* Fixed `+lyrics`
 
 ### Changelog 05/07/2023
 
