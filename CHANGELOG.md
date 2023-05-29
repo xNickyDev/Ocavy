@@ -9,7 +9,6 @@
 * Added alias `whois` to `+user-info`
 * Fixed `+joke`
 * Fixed `+lyrics`
-* test
 
 ### Changelog 05/07/2023
 
