@@ -21,7 +21,7 @@ description: Mutes a user with optional reason
 | Name     | Description                     | Type         | Required |
 | -------- | ------------------------------- | ------------ | -------- |
 | user     | The user to mute.               | User         | Yes      |
-| duration | The duration of the mute.       | Alphanumeric | Yes      |
+| duration | The duration of the mute.       | Duration     | Yes      |
 | reason   | The reason for the mute if any. | String       | No       |
 
 ## Examples
