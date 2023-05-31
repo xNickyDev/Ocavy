@@ -16,7 +16,7 @@ The bracket around an argument tells you if the argument is required (must be in
 * `()` - This holds enum values for the argument, **one** option must be picked and specified.
 
 {% hint style="warning" %}
-**Do not include** the brackets (`<>, {}` and `()`) when using a command.
+**Do not include** the brackets (`<>`, `{}` and `()`) when using a command.
 {% endhint %}
 
 ## Argument Types
