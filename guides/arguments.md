@@ -8,8 +8,7 @@ description: >-
 # Arguments
 
 ## Bracket Types
-
-The bracket around an argument tells you if the argument is required (must be included) or optional (can be included, but not required). There are three bracket types we use for Ocavy:
+The bracket around an argument indicates whether the argument is required (must be included) or optional (can be included, but not required). There are three types of brackets that we use for Ocavy:
 
 * `<>` - This argument is required, it **must** be included.
 * `{}` - This argument is optional, it **can** be included but not required.
