@@ -23,6 +23,7 @@ Emoji | Emoji as unicode (😄) or the Discord custom emojis (`<a:emoji_name:emo
 Hex | A Color Hex code, e.g. `#ffffff` or `ffffff` (the `#` can be included).
 Duration | A time based duration, an integer suffixed with a valid time format (`s`, `m`, `h`, `d`, `w`), e.g. `12m` or `3d`.
 Timezone | A valid timezone, e.g. `America/New_York`. Find timezones using the [`+timezones`](./commands/utility/+timezones.md) command.
+Invite | A valid Discord server invite link or code, e.g. `https://discord.gg/DEEZY5cwpy`, `discord.gg/DEEZY5cwpy` or `DEEZY5cwpy`.
 Boolean | One of: `yes`/`no` or `true`/`false`.
 User | A valid Discord user ID, mention or name.
 Role | A valid Discord role ID, mention or name.
