@@ -15,7 +15,7 @@ description: Enables/Disables slowmode in a channel
 | Name     | Description                            | Type         | Required |
 | -------- | -------------------------------------- | ------------ | -------- |
 | #channel | The channel for the slowmode.          | Channel      | No       |
-| duration | The duration of the slowmode cooldown. | Alphanumeric | Yes      |
+| duration | The duration of the slowmode cooldown. | Duration     | Yes      |
 
 ### Duration types
 
