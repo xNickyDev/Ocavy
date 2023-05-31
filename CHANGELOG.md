@@ -10,6 +10,7 @@
 * Fixed `+joke`
 * Fixed `+lyrics`
 * Added "Normal" and "Animated" emoji count to `+server-emojis` and `+server-info`
+* Added aliases `colorinfo` and `color` to `+color-info`
 
 ### Changelog 05/07/2023
 
