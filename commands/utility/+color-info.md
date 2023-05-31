@@ -14,7 +14,7 @@ description: Returns information about the specified color
 
 | Name               | Description                             | Type               | Required |
 | ------------------ | --------------------------------------- | ------------------ | -------- |
-| <p>hex<br>role</p> | The color to receive information about. | <p>HEX<br>Role</p> | Yes      |
+| <p>hex<br>role</p> | The color to receive information about. | <p>Hex<br>Role</p> | Yes      |
 
 {% hint style="info" %}
 If you specify a role, the color information about the given role's color is returned.
