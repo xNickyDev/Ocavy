@@ -28,5 +28,5 @@ If you specify a role, the color information about the given role's color is ret
 
 ## Examples
 
-![](https://user-images.githubusercontent.com/111157596/209472587-c33faa61-d4da-472e-a04e-df066b87915a.png)\
+![](https://user-images.githubusercontent.com/111157596/209472587-c33faa61-d4da-472e-a04e-df066b87915a.png)
 ![](https://user-images.githubusercontent.com/111157596/209472592-e64bfc9d-bde3-42c9-a080-07d69d89bad3.png)
