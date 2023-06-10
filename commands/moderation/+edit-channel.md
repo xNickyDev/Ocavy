@@ -24,8 +24,8 @@ new name<br>new topic<br>new position<br>new categoryID<br>new nsfw | The new ch
 - `nsfw` - To edit the channel's NSFW setting.
 
 ## Examples
-![](https://user-images.githubusercontent.com/111157596/244872278-d4e699a9-91bd-485a-b73a-7dc90c8aacd8.png)\
-![](https://user-images.githubusercontent.com/111157596/244872314-9955501a-9a56-47bf-8636-85f4d26544ea.png)\
-![](https://user-images.githubusercontent.com/111157596/244872322-a23cf544-d702-487f-b7e6-925c401b8b69.png)\
-![](https://user-images.githubusercontent.com/111157596/244872334-692cab15-fe74-4fa8-8d69-6cec80b7fc41.png)\
+![](https://user-images.githubusercontent.com/111157596/244872278-d4e699a9-91bd-485a-b73a-7dc90c8aacd8.png)
+![](https://user-images.githubusercontent.com/111157596/244872314-9955501a-9a56-47bf-8636-85f4d26544ea.png)
+![](https://user-images.githubusercontent.com/111157596/244872322-a23cf544-d702-487f-b7e6-925c401b8b69.png)
+![](https://user-images.githubusercontent.com/111157596/244872334-692cab15-fe74-4fa8-8d69-6cec80b7fc41.png)
 ![](https://user-images.githubusercontent.com/111157596/244872340-61a676a4-812b-425a-993e-beaa5f4f59b4.png)
