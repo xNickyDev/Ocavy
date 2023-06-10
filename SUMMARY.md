@@ -25,6 +25,7 @@
   * [+create-role](commands/moderation/+create-role.md)
   * [+delete-channel](commands/moderation/+delete-channel.md)
   * [+delete-role](commands/moderation/+delete-role.md)
+  * [+edit-channel](commands/moderation/+edit-channel.md)
   * [+kick](commands/moderation/+kick.md)
   * [+lock](commands/moderation/+lock.md)
   * [+mute](commands/moderation/+mute.md)
