@@ -13,6 +13,7 @@
 * Added aliases `colorinfo` and `color` to `+color-info`
 * Fixed "Verified Bot" emoji badge is displayed for users with "Early Verified Bot Developer" badge at `+user-info`
 * Added `+leaderboard` (Alias: `+lb`)
+* Fixed enabled "User Banned (Auto)" logging action not working on several servers
 
 ### Changelog 05/07/2023
 
