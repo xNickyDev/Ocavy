@@ -12,7 +12,7 @@
 * Added "Normal" and "Animated" emoji count to `+server-emojis` and `+server-info`
 * Added aliases `colorinfo` and `color` to `+color-info`
 * Fixed "Verified Bot" emoji badge is displayed for users with "Early Verified Bot Developer" badge at `+user-info`
-* Added `+leaderboard`
+* Added `+leaderboard` (Alias: `+lb`)
 
 ### Changelog 05/07/2023
 
