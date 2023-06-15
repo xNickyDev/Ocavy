@@ -20,6 +20,7 @@
 * Fixed wrong order of error messages at `+add-member`
 * Fixed wrong error message returned in a non-ticket at `+close`
 * Fixed slash commands page not showing at `+help`
+* Added alias `nickname` to `+change-nickname`
 
 ### Changelog 05/07/2023
 
