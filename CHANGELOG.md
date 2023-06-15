@@ -5,6 +5,7 @@
 ### Changelog
 
 * Removed `+role` and split it in two separate commands instead; `+add-role` and `+remove-role`
+* Removed `/role`
 * Fixed `/emoji-info`, `/role-info`, `/channel-info` and `/server-info` not working
 * Added alias `whois` to `+user-info`
 * Fixed `+joke`
@@ -15,6 +16,10 @@
 * Added `+leaderboard` (Alias: `+lb`)
 * Fixed enabled "User Banned (Auto)" logging action not working on several servers
 * Partly fixed `+song`
+* Fixed incorrect minutes shown in **Length** field of `+song`
+* Fixed wrong order of error messages at `+add-member`
+* Fixed wrong error message returned in a non-ticket at `+close`
+* Fixed slash commands page not showing at `+help`
 
 ### Changelog 05/07/2023
 
