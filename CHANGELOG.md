@@ -21,6 +21,7 @@
 * Fixed wrong error message returned in a non-ticket at `+close`
 * Fixed slash commands page not showing at `+help`
 * Added alias `nickname` to `+change-nickname`
+* Updated our Guidelines. More information can be found on our [Support Server](https://discord.gg/DEEZY5cwpy).
 
 ### Changelog 05/07/2023
 
