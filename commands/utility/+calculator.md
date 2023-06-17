@@ -1,5 +1,5 @@
 ---
-description: Calculates math expressions
+description: Returns a calculator to calculate math expressions
 ---
 
 # +calculate
