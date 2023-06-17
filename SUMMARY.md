@@ -44,6 +44,7 @@
   * [+avatar](commands/utility/+avatar.md)
   * [+banner](commands/utility/+banner.md)
   * [+bot-info](commands/utility/+bot-info.md)
+  * [+calculator](commands/utility/+calculator.md)
   * [+changelog](commands/utility/+changelog.md)
   * [+channel-info](commands/utility/+channel-info.md)
   * [+characters](commands/utility/+characters.md)
