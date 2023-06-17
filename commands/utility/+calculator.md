@@ -2,11 +2,11 @@
 description: Returns a calculator to calculate math expressions
 ---
 
-# +calculate
+# +calculator
 
 ## Usage
 ```
-+calculate
++calculator
 ```
 
 ### Aliases
