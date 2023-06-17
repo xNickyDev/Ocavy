@@ -25,6 +25,8 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed wrong error message returned in a non-ticket at `+close`
 * Fixed slash commands page not showing at `+help`
 * Added alias `nickname` to `+change-nickname`
+* Fixed `command` option of `/help` not working properly
+* Fixed `+calculator` displayed nowhere
 
 ### Changelog 05/07/2023
 
