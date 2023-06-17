@@ -30,6 +30,7 @@
   * [+lock](commands/moderation/+lock.md)
   * [+mute](commands/moderation/+mute.md)
   * [+pin](commands/moderation/+pin.md)
+  * [+remove-reactions](commands/moderation/+remove-reactions.md)
   * [+remove-role](commands/moderation/+remove-role.md)
   * [+remove-warns](commands/moderation/+remove-warns.md)
   * [+slowmode](commands/moderation/+slowmode.md)
