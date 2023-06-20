@@ -27,6 +27,7 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Added alias `nickname` to `+change-nickname`
 * Fixed `command` option of `/help` not working properly
 * Fixed `+calculator` displayed nowhere
+* Fixed `+meme`
 
 ### Changelog 05/07/2023
 
