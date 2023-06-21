@@ -28,6 +28,11 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed `command` option of `/help` not working properly
 * Fixed `+calculator` displayed nowhere
 * Fixed `+meme`
+* Updated `+help`
+* Updated `+server-info`
+* Fixed `+invite-info`
+* Fixed `+server-banner`
+* Fixed `+server-splash`
 
 ### Changelog 05/07/2023
 
