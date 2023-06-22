@@ -1,5 +1,5 @@
 ---
-description: Returns the server splash of a server
+description: Returns the splash of a server
 ---
 
 # +server-splash
