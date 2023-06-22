@@ -33,6 +33,7 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed `+invite-info`
 * Fixed `+server-banner`
 * Fixed `+server-splash`
+* Added optional `serverID` argument to `+server-banner` and `+server-splash`
 
 ### Changelog 05/07/2023
 
