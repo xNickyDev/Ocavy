@@ -4,7 +4,7 @@ description: The official Developers of Ocavy
 
 # Developers
 
-## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" alt="" data-size="line"> Nicky#6773
+## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" alt="" data-size="line"> its.nickyy
 
 Founder, Developer
 
