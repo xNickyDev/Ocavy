@@ -4,7 +4,7 @@ description: Volunteers who are writing and updating the wiki articles
 
 # Contributors
 
-## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" alt="" data-size="line"> Nicky#6773
+## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" alt="" data-size="line"> its.nickyy
 
 Owner, Main Contributor
 
@@ -14,7 +14,7 @@ I'm Nicky from Germany.
 
 I enjoy coding and translating. Nice to meet you 👋
 
-## <img src="https://cdn.discordapp.com/embed/avatars/1.png" alt="" data-size="line"> Shapp#8741
+## <img src="https://cdn.discordapp.com/embed/avatars/1.png" alt="" data-size="line"> shapp.xyz
 
 Team, Contributor
 
