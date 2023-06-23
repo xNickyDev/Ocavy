@@ -34,6 +34,7 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed `+server-banner`
 * Fixed `+server-splash`
 * Added optional `serverID` argument to `+server-banner` and `+server-splash`
+* Added `+celebrity`
 
 ### Changelog 05/07/2023
 
