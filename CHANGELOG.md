@@ -35,6 +35,10 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed `+server-splash`
 * Added optional `serverID` argument to `+server-banner` and `+server-splash`
 * Added `+celebrity`
+* Added permissions `Send Voice Messages` and `Use Soundboard` to `+user-perms`
+* Added alias `perms` to `+user-perms`
+* Updated `+ticket-info`
+* Updated `+timezone-info`
 
 ### Changelog 05/07/2023
 
