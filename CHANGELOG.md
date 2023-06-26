@@ -39,6 +39,8 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Added alias `perms` to `+user-perms`
 * Updated `+ticket-info`
 * Updated `+timezone-info`
+* Added alias `servericon` to `+server-icon`
+* Optimized `+clear`, `+kick`, `+ban`, `+unban`, `+timeout`/`+mute` and `+untimeout`/`+unmute`
 
 ### Changelog 05/07/2023
 
