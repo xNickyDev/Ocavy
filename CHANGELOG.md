@@ -41,6 +41,7 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Updated `+timezone-info`
 * Added alias `servericon` to `+server-icon`
 * Optimized `+clear`, `+kick`, `+ban`, `+unban`, `+timeout`/`+mute` and `+untimeout`/`+unmute`
+* Added `+delete-emoji`
 
 ### Changelog 05/07/2023
 
