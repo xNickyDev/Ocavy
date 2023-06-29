@@ -42,6 +42,9 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Added alias `servericon` to `+server-icon`
 * Optimized `+clear`, `+kick`, `+ban`, `+unban`, `+timeout`/`+mute` and `+untimeout`/`+unmute`
 * Added `+delete-emoji`
+* Fixed `+meme` sometimes not responding
+* Fixed  `+user-info`
+* Made it possible for `+banner` to return color banners
 
 ### Changelog 05/07/2023
 
