@@ -43,10 +43,11 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Optimized `+clear`, `+kick`, `+ban`, `+unban`, `+timeout`/`+mute` and `+untimeout`/`+unmute`
 * Added `+delete-emoji`
 * Fixed `+meme` sometimes not responding
-* Fixed  `+user-info`
+* Fixed `+user-info`
 * Made it possible for `+banner` to return color banners
 * Fixed category emojis of `+help` not displayed in DMs
 * Fixed `+weather`
+* Added optional `name` argument to `+steal-emoji`
 
 ### Changelog 05/07/2023
 
