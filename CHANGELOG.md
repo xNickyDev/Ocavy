@@ -48,6 +48,7 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed category emojis of `+help` not displayed in DMs
 * Fixed `+weather`
 * Added optional `name` argument to `+steal-emoji`
+* Made `+avatar` author-only
 
 ### Changelog 05/07/2023
 
