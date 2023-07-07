@@ -49,6 +49,7 @@ We have updated our Guidelines. More information can be found on our [Support Se
 * Fixed `+weather`
 * Added optional `name` argument to `+steal-emoji`
 * Made `+avatar` author-only
+* Partly fixed `+user-perms`
 
 ### Changelog 05/07/2023
 
