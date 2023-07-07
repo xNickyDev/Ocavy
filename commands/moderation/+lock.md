@@ -20,6 +20,6 @@ description: Locks a channel
 When no channel is specified, the current channel will be locked.
 {% endhint %}
 
-> ## Examples
+## Examples
 
 ![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/sUxogSr83a.jpg) ![](https://tawk.link/60e18ecd649e0a0a5cca7167/kb/attachments/maGV8GRl-9.jpg)
