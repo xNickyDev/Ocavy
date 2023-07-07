@@ -2,11 +2,7 @@
 
 ## 2023
 
-{% hint style="info" %}
-We have updated our Guidelines. More information can be found on our [Support Server](https://discord.gg/DEEZY5cwpy).
-{% endhint %}
-
-### Changelog
+### Changelog 07/07/2023
 
 * Removed `+role` and split it in two separate commands instead; `+add-role` and `+remove-role`
 * Removed `/role`
