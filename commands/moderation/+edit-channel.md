@@ -24,12 +24,8 @@ description: Edits the specified channel's property
 
 ## Examples
 
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-06-10 um 15.01.56.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-06-10 um 15.02.22.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-06-10 um 15.03.01.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-06-10 um 15.03.24.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Bildschirmfoto 2023-06-10 um 15.03.43.png" alt=""><figcaption></figcaption></figure>
+![](https://user-images.githubusercontent.com/111157596/251847194-82e3ef3d-36f0-44d4-b6e9-86c33c31e8a3.png)
+![](https://user-images.githubusercontent.com/111157596/251847272-efe28e3b-5492-4343-ba87-b7987f7e93f8.png)
+![](https://user-images.githubusercontent.com/111157596/251847311-fa1e5734-fc19-4fb9-a2cd-8938acd0b3fd.png)
+![](https://user-images.githubusercontent.com/111157596/251847366-b42deb30-6b8d-452c-a00b-21536773b9da.png)
+![](https://user-images.githubusercontent.com/111157596/251847473-b1a016bc-f61c-495e-b9ec-c3589c0a6ade.png)
