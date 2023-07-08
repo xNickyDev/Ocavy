@@ -2,6 +2,10 @@
 
 ## 2023
 
+### Changelog
+* Fixed `+anime`
+* Fixed `+youtube`
+
 ### Changelog 07/07/2023
 
 * Removed `+role` and split it in two separate commands instead; `+add-role` and `+remove-role`
