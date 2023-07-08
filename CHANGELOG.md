@@ -5,6 +5,7 @@
 ### Changelog
 * Fixed `+anime`
 * Fixed `+youtube`
+* Added alias `yt` to `+youtube`
 
 ### Changelog 07/07/2023
 
