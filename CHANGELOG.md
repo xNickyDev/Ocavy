@@ -6,6 +6,7 @@
 * Fixed `+anime`
 * Fixed `+youtube`
 * Added alias `yt` to `+youtube`
+* Fixed too many emojis causing no response of `+server-emojis`
 
 ### Changelog 07/07/2023
 
