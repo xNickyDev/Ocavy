@@ -7,6 +7,8 @@
 * Fixed `+youtube`
 * Added alias `yt` to `+youtube`
 * Fixed too many emojis causing no response of `+server-emojis`
+* Fixed more than one **#** in a color hex breaking `+edit-role`
+* Updated `+edit-role`
 
 ### Changelog 07/07/2023
 
