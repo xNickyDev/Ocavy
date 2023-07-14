@@ -9,6 +9,7 @@
 * Fixed too many emojis causing no response of `+server-emojis`
 * Fixed more than one **#** in a color hex breaking `+edit-role`
 * Updated `+edit-role`
+* Re-added `+playstore`
 
 ### Changelog 07/07/2023
 
