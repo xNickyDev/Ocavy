@@ -25,4 +25,4 @@ The bracket around an argument indicates whether the argument is required (must 
 
 ## Pairs
 
-<table><thead><tr><th width="123.22653721682846">Type</th><th>Description</th></tr></thead><tbody><tr><td>Ellipsis</td><td>Ellipsis notations (<code>...</code>) symbolize an argument that can be repeated multiple times. Ellipsis is denoted with <code>...</code> as the argument after the argument which can be repeated. Currently only used with <a href="commands/moderation/+remove-reactions.md"><code>+remove-reactions</code></a>.</td></tr></tbody></table>
+<table><thead><tr><th width="123.22653721682846">Type</th><th>Description</th></tr></thead><tbody><tr><td>Ellipsis</td><td>Ellipsis notations (<code>...</code>) symbolize an argument that can be repeated multiple times. Ellipsis is denoted with <code>...</code> as the argument after the argument which can be repeated. Currently only used with <a href="../moderation/+remove-reactions.md"><code>+remove-reactions</code></a>.</td></tr></tbody></table>
