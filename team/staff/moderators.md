@@ -4,7 +4,7 @@ description: The Moderators of our Support Server
 
 # Moderators
 
-## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" alt="" data-size="line"> its.nickyy
+## <img src="https://cdn.discordapp.com/avatars/729343563401265193/009ddbb31824dca131de2d433b1d2ddb.png" alt="" data-size="line"> itsnicky.
 
 Head Moderator
 
