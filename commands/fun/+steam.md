@@ -1,5 +1,5 @@
 ---
-description: Returns information about the specified game on Steam
+description: Returns information about the specified Steam game
 ---
 
 # +steam
