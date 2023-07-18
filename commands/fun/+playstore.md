@@ -1,5 +1,5 @@
 ---
-description: Returns information about the specified app in the Playstore
+description: Returns information about the specified Playstore app
 ---
 
 # +playstore
