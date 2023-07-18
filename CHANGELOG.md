@@ -10,6 +10,7 @@
 * Fixed more than one **#** in a color hex breaking `+edit-role`
 * Updated `+edit-role`
 * Re-added `+playstore`
+* Added `+steam`
 
 ### Changelog 07/07/2023
 
