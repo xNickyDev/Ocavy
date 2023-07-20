@@ -11,6 +11,8 @@
 * Updated `+edit-role`
 * Re-added `+playstore`
 * Added `+steam`
+* Fixed & Optimized `+lock`
+* Fixed & Optimized `+unlock`
 
 ### Changelog 07/07/2023
 
