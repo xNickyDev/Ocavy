@@ -14,6 +14,7 @@
 * Fixed & Optimized `+lock`
 * Fixed & Optimized `+unlock`
 * Updated `+user-info`
+* Replaced "Vote" with "Docs" button at `+help`
 
 ### Changelog 07/07/2023
 
