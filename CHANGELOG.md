@@ -13,6 +13,7 @@
 * Added `+steam`
 * Fixed & Optimized `+lock`
 * Fixed & Optimized `+unlock`
+* Updated `+user-info`
 
 ### Changelog 07/07/2023
 
