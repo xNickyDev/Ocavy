@@ -15,6 +15,7 @@
 * Fixed & Optimized `+unlock`
 * Updated `+user-info`
 * Replaced "Vote" with "Docs" button at `+help`
+* Added `/ticket`
 
 ### Changelog 07/07/2023
 
