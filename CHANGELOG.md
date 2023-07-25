@@ -16,6 +16,7 @@
 * Updated `+user-info`
 * Replaced "Vote" with "Docs" button at `+help`
 * Added `/ticket`
+* Fixed `+user-info`'s roles display of select menu option "Roles" not working properly
 
 ### Changelog 07/07/2023
 
