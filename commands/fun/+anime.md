@@ -7,14 +7,14 @@ description: Returns information about the specified anime
 ## Usage
 
 ```
-+anime <title>
++anime <name>
 ```
 
 ## Arguments
 
 | Name  | Description                  | Type   | Required |
 | ----- | ---------------------------- | ------ | -------- |
-| title | The title name of the anime. | String | Yes      |
+| name  | The name of the anime.       | String | Yes      |
 
 ## Examples
 
