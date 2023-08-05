@@ -7,14 +7,14 @@ description: Returns information about the specified twitter user
 ## Usage
 
 ```
-+twitter <twitter username>
++twitter <username>
 ```
 
 ## Arguments
 
 | Name             | Description                       | Type   | Required |
 | ---------------- | --------------------------------- | ------ | -------- |
-| twitter username | The twitter username of the user. | String | Yes      |
+| username         | The username of the Twitter user. | String | Yes      |
 
 ## Examples
 
