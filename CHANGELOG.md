@@ -17,6 +17,8 @@
 * Replaced "Vote" with "Docs" button at `+help`
 * Added `/ticket`
 * Fixed `+user-info`'s roles display of select menu option "Roles" not working properly
+* Removed `+twitter`
+* Removed `+instagram`
 
 ### Changelog 07/07/2023
 
