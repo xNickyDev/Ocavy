@@ -19,6 +19,7 @@
 * Fixed `+user-info`'s roles display of select menu option "Roles" not working properly
 * Removed `+twitter`
 * Removed `+instagram`
+* Fixed & Optimized `+remove-role`'s "all" option
 
 ### Changelog 07/07/2023
 
