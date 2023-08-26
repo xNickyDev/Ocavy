@@ -20,6 +20,7 @@
 * Removed `+twitter`
 * Removed `+instagram`
 * Fixed & Optimized `+remove-role`'s "all" option
+* **[Beta]** Added `+ask` and `/ask`
 
 ### Changelog 07/07/2023
 
