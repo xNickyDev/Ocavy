@@ -42,6 +42,7 @@
   * [+untimeout](commands/moderation/+untimeout.md)
   * [+warn](commands/moderation/+warn.md)
 * [Utility](commands/utility/README.md)
+  * [+ask](commands/utility/+ask.md)
   * [+avatar](commands/utility/+avatar.md)
   * [+banner](commands/utility/+banner.md)
   * [+bot-info](commands/utility/+bot-info.md)
